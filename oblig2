@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="testsuite">oppret bruker</a></td></tr>
+<tr><td><a href="reseter passord">reseter passord</a></td></tr>
+<tr><td><a href="select 1">select 1</a></td></tr>
+<tr><td><a href="sjekk1">sjekk1</a></td></tr>
+<tr><td><a href="continue shopping">continue shopping</a></td></tr>
+<tr><td><a href="sjekk2">sjekk2</a></td></tr>
+<tr><td><a href="handlekurv">handlekurv</a></td></tr>
+<tr><td><a href="forandre antall">forandre antall</a></td></tr>
+<tr><td><a href="sjekk3">sjekk3</a></td></tr>
+<tr><td><a href="fullfoere">fullfoere</a></td></tr>
+<tr><td><a href="sjekk4">sjekk4</a></td></tr>
+<tr><td><a href="log ut">log ut</a></td></tr>
+</tbody></table>
+</body>
+</html>
